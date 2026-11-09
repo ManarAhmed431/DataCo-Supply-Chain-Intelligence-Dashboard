@@ -39,7 +39,4 @@ Notes
 Late delivery % excludes cancelled shipments.
 Delay Gap = Average Actual Days − Average Scheduled Days.
 Profit is calculated per order item; loss-making means an item with negative profit.
-Repository Contents
-Dashboard.pdf – exported report pages
-*.pbix – Power BI report file (add here)
-Dataset / Weka files (add here, if applicable)
+
